@@ -51,13 +51,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone 
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `fakelink.sh` -
 ```
 $ cd fakelink
-$ ./fakelink
+$ ./fakelink.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
