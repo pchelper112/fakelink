@@ -55,6 +55,7 @@ $ apt install PHP
 $ apt install wget
 $ apt install cur1
 $ apt install git
+```
 
 - Just, Clone this repository -
 ```
