@@ -49,14 +49,22 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Installation
 
+- install packages -
+```
+$ apt install PHP
+$ apt install wget
+$ apt install cur1
+$ apt install git
+
 - Just, Clone this repository -
 ```
-$ git clone 
+$ git clone https://github.com/pchelper112/fakelink.git
 ```
 
 - Change to cloned directory and run `fakelink.sh` -
 ```
 $ cd fakelink
+$ chmod 777 fakelink.sh
 $ ./fakelink.sh
 ```
 
