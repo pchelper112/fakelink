@@ -71,19 +71,12 @@ $ ./fakelink.sh
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
-### Run on Docker
+- support os -
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ linux
+$ termux
+$ newterm
 ```
-
-### Dependencies
-
-**`Zphisher`** requires following programs to run properly - 
-- `php`
-- `wget`
-- `curl`
-- `git`
 
 > All the dependencies will be installed automatically when you run `Zphisher` for the first time.
 
